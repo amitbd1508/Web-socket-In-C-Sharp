@@ -1,0 +1,12 @@
+D:\2016 C# Work\AlchameyWebsoket\AlchameyWebsoket\bin\Debug\AlchameyWebsoket.exe.config
+D:\2016 C# Work\AlchameyWebsoket\AlchameyWebsoket\bin\Debug\AlchameyWebsoket.exe
+D:\2016 C# Work\AlchameyWebsoket\AlchameyWebsoket\bin\Debug\AlchameyWebsoket.pdb
+D:\2016 C# Work\AlchameyWebsoket\AlchameyWebsoket\bin\Debug\Alchemy.dll
+D:\2016 C# Work\AlchameyWebsoket\AlchameyWebsoket\obj\Debug\AlchameyWebsoket.csprojResolveAssemblyReference.cache
+D:\2016 C# Work\AlchameyWebsoket\AlchameyWebsoket\obj\Debug\AlchameyWebsoket.Form1.resources
+D:\2016 C# Work\AlchameyWebsoket\AlchameyWebsoket\obj\Debug\AlchameyWebsoket.Properties.Resources.resources
+D:\2016 C# Work\AlchameyWebsoket\AlchameyWebsoket\obj\Debug\AlchameyWebsoket.csproj.GenerateResource.Cache
+D:\2016 C# Work\AlchameyWebsoket\AlchameyWebsoket\obj\Debug\AlchameyWebsoket.exe
+D:\2016 C# Work\AlchameyWebsoket\AlchameyWebsoket\obj\Debug\AlchameyWebsoket.pdb
+D:\2016 C# Work\AlchameyWebsoket\AlchameyWebsoket\bin\Debug\Newtonsoft.Json.dll
+D:\2016 C# Work\AlchameyWebsoket\AlchameyWebsoket\bin\Debug\Newtonsoft.Json.xml
